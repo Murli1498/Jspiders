@@ -1,0 +1,26 @@
+.studenthome{
+    height: 100vh;
+    background-image: url("https://media.istockphoto.com/id/1303867786/photo/productivity-setup.jpg?b=1&s=170667a&w=0&k=20&c=dUGXy7uQ9JrxOD-JX1NAgxEcaManRy_O_6VEW3fGzoo=");
+    background-color: blanchedalmond;
+    width: 100%;
+    background-size: cover;
+}
+
+.rating{
+    display: flex;
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+   
+    
+    /* width: 40%; */
+    margin-left: 190px;
+}
+
+.list{
+    margin: 40px;
+    border: 20px solid;
+    width: 170px;
+    height: 6cm;
+
+    
+}

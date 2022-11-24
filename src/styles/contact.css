@@ -1,0 +1,55 @@
+.contact{
+   
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+.details{
+    width: 75%;
+    height: 30vh;
+    margin-left: 20%;
+    border: 2px solid ;
+}
+.details h1{
+    color: orange;
+    text-decoration: underline;
+}
+
+.add{
+    display: flex;
+    margin-left: 20%;
+    margin-top:5%;
+    padding: 10px;
+    justify-content: space-evenly;
+    
+}
+.one{
+    border: 10px solid;
+    width: 200px;
+    height: 8cm;
+    background-color: cadetblue;
+}
+
+.two{
+    border: 10px solid;
+    width: 200px;
+    height: 8cm;
+    background-color: cadetblue;
+
+}
+
+.three{
+    border: 10px solid;
+    width: 200px;
+    height: 8cm;
+    background-color: cadetblue;
+
+}
+
+.for{
+    margin: 14px;
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+}

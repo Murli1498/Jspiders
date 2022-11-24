@@ -1,0 +1,16 @@
+{
+  "mock": [
+    {
+      "fname": "Dhruva",
+      "subject": "SQL",
+      "mock": "1",
+      "id": 4
+    },
+    {
+      "fname": "Dhruva",
+      "subject": "MERN",
+      "mock": "1",
+      "id": 5
+    }
+  ]
+}

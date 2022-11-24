@@ -1,0 +1,40 @@
+.king{
+    display: flex;
+}
+
+
+.parent h1{
+    color: orange;
+    text-decoration: underline;
+    margin-left:8cm;
+
+}
+
+.parent h4{
+    color: crimson;
+    font-size: larger;
+    margin-left:8cm;
+   
+}
+
+.kid h1{
+    color: orange;
+    text-decoration: underline;
+    margin-left:7cm;
+}
+
+.kid h4{
+    color: crimson;
+    font-size: larger;
+    margin-left:7cm;
+   
+}
+
+.image img{
+    width: 4cm;
+    height: 3cm;
+    justify-content: space-evenly;
+    margin-top: 10%;
+    margin-left: 7%;
+
+}

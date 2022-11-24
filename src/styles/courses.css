@@ -1,0 +1,85 @@
+.courses{
+    margin: 0px;
+    font-style: italic;
+    
+}
+
+.ek{
+    display: flex;
+    margin-left: 15%;
+    width: 40%;
+
+    
+}
+
+.do img{
+    width: 1cm;
+}
+
+.teen img{
+    width: 1cm;
+}
+
+.char img{
+    width: 1cm;
+}
+
+.courses h1{
+    color: orange;
+}
+
+.ek h2{
+    color: orange;
+}
+
+.do{
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+.teen{
+    margin-right: 10%;
+}
+
+.do h5{
+    width: 7cm;
+}
+
+.teen h5{
+    width: 7cm;
+}
+
+.char h5{
+    width: 6cm;
+}
+
+.agri img{
+    width: 5%;
+}
+
+.farm{
+    display: flex;
+    margin-left: 17%;
+    font-style: italic;
+}
+
+.farm h2{
+    color: orange;
+}
+
+
+.land{
+    margin: 15px;
+}
+
+.agri{
+    margin: 15px;
+}
+
+.courses h2{
+    background-color: grey;
+}
+
+.courses h3{
+    text-decoration: underline;
+}

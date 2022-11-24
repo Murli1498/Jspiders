@@ -1,0 +1,45 @@
+.student{
+    background-image: url("https://media.istockphoto.com/id/1332011346/photo/team-training.jpg?s=612x612&w=0&k=20&c=J_WyIeXJY3HcPr_YakQj1S8uO0iLQkmK-Oi9R_r7hPo=");
+    display: flex;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+
+
+.card{
+    background-color: whitesmoke;
+    margin-top: 200px;
+    width: 400px;
+    height: 350px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+.card input{
+    background-color: whitesmoke;
+    color: black;
+    width: 300px;
+    border-top: 0px ;
+    border-left: 0px;
+    border-right: 0px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+.card label{
+    margin-top: 20px;
+}
+
+
+#btn2{
+    margin-left: 70px;
+    
+}
+
+.card a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,101 @@
+.fix{
+    display: flex;
+}
+
+
+
+.all{
+    margin-left:16%;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    background-color: rgb(62, 62, 92);
+    font-style:italic;
+    margin-top: 0px;
+}
+
+.all img{
+    height:19px;
+    width:19px;
+}
+
+.all h2{
+    text-decoration: underline;
+    color: orange;
+    background-color: white;
+    margin-top: 0px;
+}
+.all h3{
+    margin: 10px;
+    color: whitesmoke;
+}
+
+.placed
+{
+    background-color: whitesmoke;
+    margin-left: 4%;
+    font-style: italic;
+}
+
+.placed h2{
+    text-decoration: underline;
+    color: orange;
+}
+.placed h3{
+    margin: 10px;
+    color: orchid;
+}
+
+.sign{
+    margin: 10px;
+    color: orange;
+    font-weight: bolder;
+}
+
+.placed img{
+    height:25px;
+    width:30px;
+}
+
+.total{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 4%;
+}
+
+.total h2{
+    border: 3px solid orange;
+    background-color: grey;
+    width: 6cm;
+    margin-top: 0px;
+}
+
+
+
+
+
+.total h2{
+    color: orange;
+}
+
+.four h2{
+    margin-left: 6%;
+}
+
+.five{
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.six h2{
+    margin-left: 9%;
+}
+
+.seven {
+    margin-left: 6%;
+}
+
+.total h3{
+    color:crimson;
+}
+
